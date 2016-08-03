@@ -24,7 +24,7 @@ dependencies {
 mainClassName = 'com.vrxsystems.world.WorldServer'
 
 shadowJar{
-	baseName='javaworld-server'
+	baseName='world-server'
 	classifier= null
 	version = null
 }
